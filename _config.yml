@@ -59,9 +59,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        #title: Real-time Attendance Tracking Application
+        title: Real-time attendace tracking application 
         #link: github.com/sproogen
-         link_text: Real-time Attendance Tracking Application
+        #link_text: Real-time Attendance Tracking Application
         #additional_links:
           #- title:  sproogen/modern-resume-theme
             #icon: fab fa-github
@@ -99,7 +99,7 @@ content:
             Experince in maintianing and executing build scripts to automate development and production builds.
             Expertise in setup and configure Nutanix acropolis and prism enviornment.
             Praticipate in "On-Call" support rotation.
-            Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.  
+            Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.
 
 
 
