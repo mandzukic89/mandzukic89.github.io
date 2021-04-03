@@ -72,9 +72,9 @@ content:
         quote: >
           I started this project as a way of learning <mark>Kotlin</mark> and it became a core component of the application. I have learned many skills through this and been I'm very proud of having this as my senior project.
         description: | # this will include new lines to allow paragraphs
-          Developed a real time attendance tracking application using android/java that replaces old traditonal/manual attendance tracking. This application provides adminstrator (Faculty/Professors) and users (Students) their attendace data information, such as class subject/number, track attaendance time and date, track missed date, notification history, special features for adminstrator allowing them to orgnize, add, remove and edit data.
-          Used Kotlin/Java API features, Parse Server to store/attain data.
-          Developed an IoT tracking device by using RaspberryPi, I2C LCD, numpad and RFID chip. Some of RESTful API features where implmented to enable communication between the mobile application and the IoT device. As well, Firebase API features were implmented to allow integration to send push notification through the mobile application.
+          - Developed a real time attendance tracking application using android/java that replaces old traditonal/manual attendance tracking. This application provides adminstrator (Faculty/Professors) and users (Students) their attendace data information, such as class subject/number, track attaendance time and date, track missed date, notification history, special features for adminstrator allowing them to orgnize, add, remove and edit data.
+          - Used Kotlin/Java API features, Parse Server to store/attain data.
+          - Developed an IoT tracking device by using RaspberryPi, I2C LCD, numpad and RFID chip. Some of RESTful API features where implmented to enable communication between the mobile application and the IoT device. As well, Firebase API features were implmented to allow integration to send push notification through the mobile application.
 
 
 
@@ -90,16 +90,16 @@ content:
         quote: >
           Cloud Evolutions provides the platform flexibility your business requires with the security, experience and operational discipline that give you peace of mind.
         description: | # this will include new lines to allow paragraphs
-            Worked with cloud engineering team to plan and deploy Kubernetes on Dell EMC Hyperconverged Infrastructure and expand existing Kubernetes cluster with agile methodology.
-            Managing VxRail/VxFlex Linux servers rack, component provisioning, handeling configuration, deployment of infrastructure.
-            Used Kubernetes to orchastrate the deployment, scaling. and mandment of Docker containers.
-            Designed and developed command-line tools for CDI deployment through Kubernetes.
-            Excellent knowledge in TPC benchmark, Ran TPC-E benchmark environment against MSSQL database using Quest Benchmark Factory tool.
-            Experince in stress testing the production enviornment and completely utlilizing the hardware product used in production examining any bottleneck issues.
-            Experince in maintianing and executing build scripts to automate development and production builds.
-            Expertise in setup and configure Nutanix acropolis and prism enviornment.
-            Praticipate in "On-Call" support rotation.
-            Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.
+            - Worked with cloud engineering team to plan and deploy Kubernetes on Dell EMC Hyperconverged Infrastructure and expand existing Kubernetes cluster with agile methodology.
+            - Managing VxRail/VxFlex Linux servers rack, component provisioning, handeling configuration, deployment of infrastructure.
+            - Used Kubernetes to orchastrate the deployment, scaling. and mandment of Docker containers.
+            - Designed and developed command-line tools for CDI deployment through Kubernetes.
+            - Excellent knowledge in TPC benchmark, Ran TPC-E benchmark environment against MSSQL database using Quest Benchmark Factory tool.
+            - Experince in stress testing the production enviornment and completely utlilizing the hardware product used in production examining any bottleneck issues.
+            - Experince in maintianing and executing build scripts to automate development and production builds.
+            - Expertise in setup and configure Nutanix acropolis and prism enviornment.
+            - Praticipate in "On-Call" support rotation.
+            - Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.
 
 
 
