@@ -46,7 +46,7 @@ linkedin_username: mandkittani
 
 # About Section
 about_title: Summary
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Skilled system engineer with strong background in Linux/Unix and Windows administration. Experince in desiging implmenting and manging cutting-edge deployment automation of cloud resources.
   Dedicated professional with strong track of accurately conducting system repairs, stress-testing the enviornment for any bottleneck issues and troubleshooting.
@@ -72,7 +72,7 @@ content:
         quote: >
           I started this project as a way of learning <mark>Kotlin</mark> and it became a core component of the application. I have learned many skills through this and been I'm very proud of having this as my senior project.
         description: | # this will include new lines to allow paragraphs
-          Developed a real time attendance tracking application using android/java that replaces old traditonal/manual attendance tracking. This application provides adminstrator (Faculty/Professors) and users (Students) their attendace data information, such as class subject/number, track attaendance time and date, track missed date,  notification history, special features for adminstrator allowing them to orgnize, add, remove and edit data.
+          Developed a real time attendance tracking application using android/java that replaces old traditonal/manual attendance tracking. This application provides adminstrator (Faculty/Professors) and users (Students) their attendace data information, such as class subject/number, track attaendance time and date, track missed date, notification history, special features for adminstrator allowing them to orgnize, add, remove and edit data.
           Used Kotlin/Java API features, Parse Server to store/attain data.
           Developed an IoT tracking device by using RaspberryPi, I2C LCD, numpad and RFID chip. Some of RESTful API features where implmented to enable communication between the mobile application and the IoT device. As well, Firebase API features were implmented to allow integration to send push notification through the mobile application.
 
