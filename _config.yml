@@ -46,7 +46,7 @@ linkedin_username: mandkittani
 
 # About Section
 about_title: Summary
-about_profile_image: images/mand.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Skilled system engineer with strong background in Linux/Unix and Windows administration. Experince in desiging implmenting and manging cutting-edge deployment automation of cloud resources.
   Dedicated professional with strong track of accurately conducting system repairs, stress-testing the enviornment for any bottleneck issues and troubleshooting.
