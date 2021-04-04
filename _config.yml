@@ -106,23 +106,24 @@ content:
             - Expertise in setup and configure Nutanix acropolis and prism enviornment.
             - Praticipate in "On-Call" support rotation.
             - Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.
-     - layout: left
-       title: California State University Dominguez Hills
-       link: https://www.csudh.edu/it/
-       sub_title: Information Technology Assistant
-       caption: August 2017 - August 2019
-       quote: >
-         CSUDH Division of Information Technology supports the University’s mission to be recognized as a model urban university, diverse in teaching, learning, research, and administration.
-       description: | # this will include new lines to allow paragraphs
-           - Excellent knowledge with configuring and troubleshooting network issues.
-           - Excellent knowledge with Jira and confluence, keeping track of high priority issues.
-           - Provide technical support, conducting system repairs, maintenance, and upgrades tp help clients maintian their labs.
-           - Add users to a network, assign and update security permission on campus active directory.
-           - Create tools to automate repetitive tasks using shell scripting.
-           - Excellent problem solving skills with a strong attention to detail.
-           - Strong knowledge of Linux server environment.
-           - Experince in analyzing and resolving preformance, scalability and reliability issues.
-           - Ability to preform well under pressure, meet deadlines, and manage multiple tasks simultaneously, strong communication skills.
+
+     #- layout: left
+       #title: California State University Dominguez Hills
+       #link: https://www.csudh.edu/it/
+       #sub_title: Information Technology Assistant
+       #caption: August 2017 - August 2019
+       #quote: >
+         #CSUDH Division of Information Technology supports the University’s mission to be recognized as a model urban university, diverse in teaching, learning, research, and administration.
+       #description: | # this will include new lines to allow paragraphs
+           #- Excellent knowledge with configuring and troubleshooting network issues.
+           #- Excellent knowledge with Jira and confluence, keeping track of high priority issues.
+           #- Provide technical support, conducting system repairs, maintenance, and upgrades tp help clients maintian their labs.
+           #- Add users to a network, assign and update security permission on campus active directory.
+           #- Create tools to automate repetitive tasks using shell scripting.
+           #- Excellent problem solving skills with a strong attention to detail.
+           #- Strong knowledge of Linux server environment.
+           #- Experince in analyzing and resolving preformance, scalability and reliability issues.
+           #- Ability to preform well under pressure, meet deadlines, and manage multiple tasks simultaneously, strong communication skills.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
