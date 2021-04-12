@@ -1,4 +1,4 @@
-# Site
+  # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -107,14 +107,14 @@ content:
             - Praticipate in "On-Call" support rotation.
             - Excellent communication, interpersonal, and analytical skills. Proven ability to lean and rapidly adapt new challenges.
 
-     #- layout: left
-       #title: California State University Dominguez Hills
-       #link: https://www.csudh.edu/it/
-       #sub_title: Information Technology Assistant
-       #caption: August 2017 - August 2019
-       #quote: >
-         #CSUDH Division of Information Technology supports the University’s mission to be recognized as a model urban university, diverse in teaching, learning, research, and administration.
-       #description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: California State University Dominguez Hills
+        link: https://www.csudh.edu/it/
+        sub_title: Information Technology Assistant
+        caption: August 2017 - August 2019
+        quote: >
+          CSUDH Division of Information Technology supports the University’s mission to be recognized as a model urban university, diverse in teaching, learning, research, and administration.
+        description: | # this will include new lines to allow paragraphs
            #- Excellent knowledge with configuring and troubleshooting network issues.
            #- Excellent knowledge with Jira and confluence, keeping track of high priority issues.
            #- Provide technical support, conducting system repairs, maintenance, and upgrades tp help clients maintian their labs.
