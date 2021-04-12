@@ -84,7 +84,7 @@ content:
           - Preform penetration tests on Kali linux enviornment by creating new testing methods to identify vulnerabilities.
           - Pinpoint methods and entry points that attackers may use to exploit vulnerabilities or weaknesses.
           - Search for weaknesses in commmon software, web applications and proprietary systems.
-          - Stay updated on the latest malware and security threats. 
+          - Stay updated on the latest malware and security threats.
 
 
   - title: Experience # Title for the section
@@ -150,6 +150,7 @@ content:
       - Gaming
       - Custom Keyboards
       - IoT, RPi
+      - RedHat/CentOS Linux 
 #      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 #      Look at this cool image
