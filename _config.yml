@@ -79,9 +79,12 @@ content:
       - layout: top-middle
         title: Kali linux penetration & vulnerabilities testing
         quote: >
-          I started this project as a way of learning <mark>Kotlin</mark> and it became a core component of the application. I have learned many skills through this and I'm very proud of having this as my senior project.
+          I started this project as a way of learning ethical hacking as well as digital foransic analysis.
         description: | # this will include new lines to allow paragraphs
-
+          - Preform penetration tests on Kali linux enviornment by creating new testing methods to identify vulnerabilities.
+          - Pinpoint methods and entry points that attackers may use to exploit vulnerabilities or weaknesses.
+          - Search for weaknesses in commmon software, web applications and proprietary systems.
+          - Stay updated on the latest malware and security threats. 
 
 
   - title: Experience # Title for the section
