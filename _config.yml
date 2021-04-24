@@ -46,7 +46,7 @@ linkedin_username: mand-kittani-715001188
 
 # About Section
 about_title: Summary
-about_profile_image: images/profile1.jpg
+about_profile_image: images/mand.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Skilled system engineer with strong background in Linux/Unix and Windows administration. Experince in desiging implmenting and manging cutting-edge deployment automation of cloud resources.
   Dedicated professional with strong track of accurately conducting system repairs, stress-testing the enviornment for any bottleneck issues and troubleshooting.
@@ -93,12 +93,12 @@ content:
       - layout: left
         title: IBM
         link: https://www.ibm.com/
-        sub_title: Security Engineer
-        #caption: May 2021 - Present
+        sub_title: Security Tooling Engineer
+        caption: May 2021 -
         quote: >
           IBM & IBMers believe in progress—that the application of intelligence, reason and science can improve business, society and the human condition
         description: |
-            - 
+            -
       - layout: left
         title: Cloud Evolutions
         link: cloud-evolutions.com
